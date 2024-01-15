@@ -1,9 +1,0 @@
-Use the keyboard if you are a good developer
-why people believe that SOLID principles and clean code are outdated?
-read the goddamn book
-why people do not write unittests(explain what they are for) ?
-boy scout rule (the most important)
-how is possible that there are still people that think "if it works then don't touch it"
-Spring - yes it could be nice but it's still a framework demmerda - it has pros and cons (and people forget that everything is available in plain java as well)
-
-
